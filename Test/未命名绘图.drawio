@@ -34,7 +34,7 @@
         <mxCell id="IFA1A1LFFcSrFGcqCqc3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFA1A1LFFcSrFGcqCqc3-2" target="IFA1A1LFFcSrFGcqCqc3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFA1A1LFFcSrFGcqCqc3-2" value="森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-2" value="日光森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFA1A1LFFcSrFGcqCqc3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFA1A1LFFcSrFGcqCqc3-3" target="IFA1A1LFFcSrFGcqCqc3-5">
@@ -46,7 +46,7 @@
         <mxCell id="IFA1A1LFFcSrFGcqCqc3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFA1A1LFFcSrFGcqCqc3-4" target="IFA1A1LFFcSrFGcqCqc3-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFA1A1LFFcSrFGcqCqc3-4" value="森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-4" value="沃野森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="170" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFA1A1LFFcSrFGcqCqc3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFA1A1LFFcSrFGcqCqc3-5" target="IFA1A1LFFcSrFGcqCqc3-2">
@@ -114,6 +114,33 @@
             <mxPoint x="240" y="440" as="sourcePoint" />
             <mxPoint x="290" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IFA1A1LFFcSrFGcqCqc3-41" target="IFA1A1LFFcSrFGcqCqc3-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-41" value="日光森林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="555" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-42" value="左" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="555" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-44" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="495" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-45" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-46" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-47" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-48" value="右出口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="560" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFA1A1LFFcSrFGcqCqc3-49" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="560" width="85" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
